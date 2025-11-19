@@ -156,6 +156,9 @@ void* god_function(void* universe) {
 - "Is HTML a programming language"
 - Recruiters offering "competitive salary" (name your price or gtfo)
 
+**DIGITAL MANIFESTATIONS:**
+- YouTube: [@Mr-Clever](https://www.youtube.com/@Mr-Clever) - where the chaos is documented
+
 ```javascript
 // How to reach me:
 const contact = async () => {
