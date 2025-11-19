@@ -192,7 +192,7 @@ const contact = async () => {
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/KianBahasadri/count.svg)
+![](https://komarev.com/ghpvc/?username=KianBahasadri&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
 *PS: This profile is 100% organic, grass-fed, free-range, cruelty-free, gluten-free, and written in vim*
 
