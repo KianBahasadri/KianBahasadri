@@ -152,7 +152,7 @@ void* god_function(void* universe) {
 
 **I DO NOT respond to:**
 - "Can you do my homework"
-- "Why does my node_modules weigh 500MB"
+- "Why does my `node_modules` weigh 500MB"
 - "Is HTML a programming language"
 - Recruiters offering "competitive salary" (name your price or gtfo)
 
