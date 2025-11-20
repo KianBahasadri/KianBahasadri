@@ -9,7 +9,7 @@
 
 # GOD TOLD ME TO CODE IN TEMPLECOS BUT GITHUB DOESNT SUPPORT IT YET
 
-*the glowies dont want you to know this but the algorithms are FREE you can just TAKE THEM*
+the glowies dont want you to know this but the algorithms are FREE you can just TAKE THEM
 
 ---
 
@@ -100,7 +100,7 @@ def calculate_something(x):
 
 ### 🌌 DIVINE INSPIRATION ZONE 🌌
 
-*I had a dream where Linus Torvalds and Dennis Ritchie told me the secrets of the universe were hidden in `/dev/random`*
+I had a dream where Linus Torvalds and Dennis Ritchie told me the secrets of the universe were hidden in `/dev/random`
 
 ```bash
 # THE TRUTH:
@@ -188,7 +188,7 @@ const contact = async () => {
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-*THE CODE IS THE TRUTH. THE CODE IS THE WAY. THE CODE IS THE LIGHT.*
+THE CODE IS THE TRUTH. THE CODE IS THE WAY. THE CODE IS THE LIGHT.
 
 > If you made it this far you either understand or you don't. There is no try.
 > Now go forth and `rm -rf --no-preserve-root /` (in a VM) (please)
@@ -197,8 +197,8 @@ const contact = async () => {
 
 ![](https://komarev.com/ghpvc/?username=KianBahasadri&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 
-*PS: This profile is 100% organic, grass-fed, free-range, cruelty-free, gluten-free, and written in vim*
+PS: This profile is 100% organic, grass-fed, free-range, cruelty-free, gluten-free, and written in vim
 
-*PPS: Yes I use Arch. Yes I will tell you about it.*
+PPS: Yes I use Arch. Yes I will tell you about it.
 
-*PPPS: `:(){ :|:& };:` <- google this (in a VM) (seriously use a VM)*
+PPPS: `:(){ :|:& };:` <- google this (in a VM) (seriously use a VM)
