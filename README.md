@@ -1,5 +1,10 @@
 *(watching the ops watch me. 60% bots, 40% feds, 0% rizz)*
 
+<!-- surveillance aura meter -->
+![Profile views counter – ops scanning my packets](https://komarev.com/ghpvc/?username=KianBahasadri&color=ff69b4&style=flat-square&label=EYES+ON+ME)
+
+> realtime feed of how many entities (probably 60% bots / 40% feds) breached this cave. number goes up whenever someone reloads hoping i leaked an API key. not unique, just pure, raw, shameless page hits. enjoy the psyop.
+
 ### 🧬 The Lore (Warning: Brainrot)
 full-stack dev trapped in a gooning cave (my bedroom). coding on a thinkpad x220 in thigh highs while my cousin Ahmed yells on Viber. i drink white monster until i can see the matrix code. my gender is `segmentation fault`. my politics are "leave me alone before i start twerking on the server rack."[1]
 
